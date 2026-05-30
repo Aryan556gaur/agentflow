@@ -281,7 +281,7 @@ Tests cover:
 
 ## Demo Script (for the live session)
 
-1. Open http://localhost:3000 → **Workflows** → click **Research + Summary** template → **Instantiate**
+1. Open (https://lnkd.in/dqPaT_jX) → **Workflows** → click **Research + Summary** template → **Instantiate**
 2. Select the new workflow → click **▶ Run** → type a research question (e.g. "Latest news on LLM agents")
 3. Watch the right panel stream live: `run_started` → `tool_call` (web_search) → `agent_message` → `run_completed`
 4. Switch to **Monitor** → see token count, cost estimate, and full message history
